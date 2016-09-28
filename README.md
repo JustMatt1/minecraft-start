@@ -1,3 +1,3 @@
 # minecraft-start
 
-Auto restarting Spigot/Bukkit/Minecraft start script
+Auto restarting Spigot/Bukkit/Minecraft bash script
