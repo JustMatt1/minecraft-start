@@ -2,8 +2,8 @@
 
 while true
 do
-        # Modify this to whatever.
-        java -d64 -Xmx12G -Xms12G -Dfile.encoding=UTF-8 -jar spigot-latest.jar
+        # Change this to whatever.
+        java -d64 -Xmx12G -Xms12G -Dfile.encoding=UTF-8 -jar spigot*.jar
 
         echo -e "\n\n[Reboot] Starting automated reboot process"
         printf "[Reboot] "
